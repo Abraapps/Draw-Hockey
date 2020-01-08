@@ -1,21 +1,18 @@
-# Welcome to Twist Color Ball Around!
+# Welcome to Draw Hockey 3d!
 
-Enjoy unique coloring experience! Swipe the board to fill up the lines with color and reveal the images. 
+Enjoy unique experience with Draw Hockey 3d. 
 
 How to play:
  
-* Swipe the board to rotate it 
-* Move the ball to fill up the lines
-* Color the outline to reveal the picture
-* Unlock all 500+ levels 
+* Draw the snow line
+* Swipe the puck towards the goal 
+* .. and Score!
 * Enjoy increasing difficulty
-* Collect picturesque backgrounds
-
-Tame the rolling ball and color unique pictures. Give your mind a break with Twist Color Ball Around!
+* Collect coins
 
 Contact us at abra.games.studio[at]gmail.com
 
-<a href="https://itunes.apple.com/us/app/id1484762734">
+<a href="https://itunes.apple.com/us/app/id1490548614">
 <img class="app-store-badge" src="./app-store-icon.png">
 </a>
 
